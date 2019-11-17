@@ -1,0 +1,1837 @@
+CPIDR 3.2.2785.24603
+
+
+
+"hey look .
+	let's see what's in the ..."
+ 002 UH   W   hey
+ 200 VB   W P look
+ 000 .        .
+
+ 200 VB   W P let
+ 200 POS    P 's
+ 002 NN   W   see
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   box
+ 000 .        .
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 200 RB   W P there
+ 000 .        ?
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 200 RB   W P there
+ 000 .        ?
+
+ 002 PRP  W   you
+ 200 VBP  W P wanna
+ 200 VB   W P get
+ 002 PRP  W   it
+ 200 IN   W P out
+ 000 .        ?
+
+ 002 UH   W   huh
+ 000 .        ?
+
+ 002 PRP  W   you
+ 200 VBP  W P wanna
+ 200 VB   W P get
+ 002 PRP  W   it
+ 200 IN   W P out
+ 000 .        ?
+
+ 200 VB   W P bend
+ 200 IN   W P in
+ 200 RB   W P there
+ 000 .        .
+
+ 200 VB   W P bend
+ 200 IN   W P in
+ 200 RB   W P there
+ 000 .        .
+
+ 200 VB   W P wanna
+ 002 NN   W   read
+ 000 .        .
+
+ 200 VB   W P come
+ 200 IN   W P on
+ 000 .        .
+
+ 200 VB   W P sit
+ 200 RB   W P down
+ 200 CC   W P and
+ 200 VB   W P read
+ 000 .        .
+
+ 002 PRP  W   you
+ 200 VBP  W P wanna
+ 200 VBN  W P read
+ 000 .        .
+
+ 002          do/moved
+ 002 PRP  W   you
+ 402 VBP  W   do
+ 200 VBP  W P want
+ 200 VBG  W P mommy
+ 510 TO   W   to
+ 200 VB   W P read
+ 200 TO   W P to
+ 002 PRP  W   you
+ 000 .        ?
+
+ 200 VB   W P come
+ 200 RB   W P here
+ 000 .        .
+
+ 200 VB   W P turn
+ 200 IN   W P around
+ 000 .        .
+
+ 200 RB   W P well
+ 002 PRP  W   it
+ 200 VBZ    P 's
+ 200 JJ   W P okay
+ 000 .        .
+
+ 002 PRP  W   you
+ 002 MD   W   can
+ 200 VB   W P look
+ 200 IN   W P through
+ 002 PRP  W   it
+ 000 .        .
+
+ 200 VB   W P go
+ 200 RB   W P ahead
+ 000 .        .
+
+ 002 PRP  W   i
+ 002 MD   W   will
+ 200 VB   W P read
+ 200 TO   W P to
+ 002 PRP  W   you
+ 000 .        .
+
+ 002 UH   W   oh
+ 002 PRP  W   you
+ 200 VBP  W P wanna
+ 200 VBN  W P read
+ 000 .        .
+
+ 002 MD   W   can
+ 002 PRP  W   you
+ 200 VB   W P show
+ 002 PRP  W   me
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P on
+ 200 DT   W P those
+ 002 NNS  W   pictures
+ 000 .        ?
+
+ 200 WP   W P what
+ 000 .        ?
+
+ 002 NN   W   you're
+ 050 NOT  W P not
+ 200 VBN  W P done
+ 200 VBP  W P are
+ 002 PRP  W   you
+ 000 .        ?
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 DT   W P this
+ 000 .        ?
+
+ 002 NN   W   rooster
+ 000 .        .
+
+ 200 VB   W P let
+ 200 POS    P 's
+ 002 NN   W   see
+ 200 WP   W P what
+ 200 RB   W P else
+ 302 VBZ  W   is
+ 200 IN   W P in
+ 200 RB   W P here
+ 000 .        .
+
+ 002 EX   W   there
+ 200 VBZ    P 's
+ 200 VB   W P gotta
+ 200 VB   W P be
+ 002 NN   W   something
+ 200 RB   W P else
+ 200 IN   W P besides
+ 200 DT   W P that
+ 000 .        .
+
+ 002 NN   W   tractor
+ 000 .        .
+
+ 201 DT   W   a
+ 002 NN   W   barn
+ 000 .        .
+
+ 002 NN   W   flower
+ 000 .        .
+
+ 002 UH   W   yeah
+ 000 .        .
+
+ 054 PRP  W   this
+ 402 VBZ  W   is
+ 200 VBN  W P called
+ 002 NN   W   cock_a_doodle_doo
+ 200 IN   W P o
+ 000 .        .
+
+ 200 VB   W P look
+ 002 PRP  W   i
+ 200 VB   W P see
+ 200 DT   W P some
+ 002 NN   W   animal
+ 200 VBZ  W P tracks
+ 000 .        .
+
+ 200 VB   W P listen
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P hear
+ 200 VBG  W P cock_a_doodle_dooo
+ 000 .        .
+
+ 200 WP   W P who
+ 200 VBZ    P 's
+ 200 RB   W P there
+ 000 .        ?
+
+ 002 PRP  W   it
+ 200 VBZ    P 's
+ 201 DT   W   a
+ 000 SYM      +
+ 000 .        .
+
+ 000 .        .
+
+ 000 .        .
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 DT   W P that
+ 000 .        ?
+
+ 054 PRP  W   that
+ 200 VBZ    P 's
+ 201 DT   W   a
+ 002 NN   W   rooster
+ 000 .        .
+
+ 002 NN   W   rooster
+ 000 .        .
+
+ 200 VB   W P look
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P see
+ 200 DT   W P some
+ 002 NN   W   animal
+ 200 VBZ  W P tracks
+ 000 .        .
+
+ 200 VB   W P listen
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P hear
+ 002 UH   W   oink
+ 200 IN   W P o
+ 002 UH   W   oink
+ 200 IN   W P o
+ 002 UH   W   oink
+ 200 IN   W P o
+ 000 .        .
+
+ 200 WP   W P who
+ 200 VBZ    P 's
+ 200 DT   W P that
+ 000 .        ?
+
+ 200 WP   W P who
+ 200 VBZ  W P says
+ 002 UH   W   oink
+ 200 IN   W P o
+ 002 UH   W   oink
+ 200 IN   W P o
+ 002 UH   W   oink
+ 200 IN   W P o
+ 000 .        ?
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 DT   W P that
+ 000 .        ?
+
+ 002 NNS  W   pigs
+ 000 .        .
+
+ 002 NN   W   yay
+ 000 .        .
+
+ 200 VB   W P look
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P see
+ 200 DT   W P some
+ 200 JJR  W P more
+ 002 NN   W   animal
+ 200 VBZ  W P tracks
+ 000 .        .
+
+ 200 VB   W P meow
+ 200 IN   W P o
+ 000 .        .
+
+ 200 WP   W P who
+ 200 VBZ    P 's
+ 200 RB   W P there
+ 000 .        ?
+
+ 200 WP   W P who
+ 200 VBZ    P 's
+ 200 DT   W P that
+ 000 .        ?
+
+ 002 NN   W   kitty
+ 000 .        .
+
+ 201 DT   W   the
+ 002 NN   W   kittycat
+ 000 .        .
+
+ 002 NN   W   uhoh
+ 000 .        .
+
+ 200 VB   W P look
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P see
+ 200 DT   W P some
+ 200 JJR  W P more
+ 002 NN   W   animal
+ 200 VBZ  W P tracks
+ 000 .        .
+
+ 200 VB   W P listen
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P hear
+ 002 NN   W   quack
+ 200 IN   W P o
+ 002 NN   W   quack
+ 200 IN   W P o
+ 002 NN   W   quack
+ 200 IN   W P o
+ 002 NN   W   quack
+ 200 IN   W P o
+ 002 NN   W   quack
+ 200 IN   W P o
+ 000 .        .
+
+ 200 WP   W P who
+ 002          is/moved
+ 054 PRP  W   that
+ 200 VBZ  W P is
+ 000 .        ?
+
+ 002 NNS  W   ducks
+ 000 .        .
+
+ 200 VBZ  W P looks
+ 200 IN   W P like
+ 002 PRP  W   he
+ 200 VBD  W P fell
+ 200 IN   W P in
+ 000 .        .
+
+ 002 PRP  W   he
+ 200 VBD  W P fell
+ 200 IN   W P in
+ 002 UH   W   huh
+ 000 .        ?
+
+ 200 VB   W P look
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P see
+ 200 DT   W P some
+ 002 NN   W   animal
+ 200 VBZ  W P tracks
+ 000 .        .
+
+ 200 VB   W P listen
+ 000 .        .
+
+ 200 VB   W P moo
+ 200 IN   W P o
+ 000 .        .
+
+ 200 WP   W P who
+ 200 VBZ    P 's
+ 200 DT   W P that
+ 000 .        ?
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 DT   W P that
+ 000 .        ?
+
+ 054 PRP  W   that
+ 200 VBZ    P 's
+ 050 NOT  W P not
+ 201 DT   W   a
+ 200 JJ   W P doggy
+ 000 .        .
+
+ 200 VB   W P moo
+ 200 IN   W P o
+ 000 .        .
+
+ 002 PRP  W   it
+ 200 VBZ    P 's
+ 201 DT   W   a
+ 002 NN   W   cow
+ 000 .        .
+
+ 002 PRP  W   you
+ 200 VBP  W P know
+ 002 NNS  W   cows
+ 000 .        .
+
+ 200 VB   W P look
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P see
+ 200 DT   W P some
+ 200 JJ   W P strange
+ 002 NN   W   animal
+ 200 VBZ  W P tracks
+ 000 .        .
+
+ 200 VB   W P listen
+ 000 .        .
+
+ 002 UH   W   oink
+ 200 IN   W P o
+ 002 UH   W   oink
+ 200 IN   W P o
+ 200 VB   W P moo
+ 200 IN   W P o
+ 002 NN   W   quack
+ 200 IN   W P o
+ 200 VB   W P meow
+ 200 IN   W P o
+ 000 .        .
+
+ 002 NN   W   whats
+ 200 VBG  W P happening
+ 000 .        ?
+
+ 002 PRP  W   it
+ 200 VBZ    P 's
+ 201 DT   W   a
+ 002 NN   W   fox
+ 000 .        .
+
+ 201 DT   W   the
+ 002 NN   W   fox
+ 402 VBZ  W   is
+ 200 VBG  W P coming
+ 000 .        .
+
+ 200 VB   W P run
+ 002 NN   W   run
+ 000 :        :
+ 000 .        ?
+
+ 201 DT   W   the
+ 002 NN   W   fox
+ 402 VBZ  W   is
+ 200 VBG  W P coming
+ 000 .        .
+
+ 200 VB   W P look
+ 002 PRP  W   i
+ 200 VB   W P see
+ 200 DT   W P some
+ 200 JJ   W P big
+ 002 NNS  W   people
+ 200 VBZ  W P tracks
+ 000 .        .
+
+ 200 VB   W P listen
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P hear
+ 200 VB   W P scram
+ 000 .        .
+
+ 200 WP   W P who
+ 200 VBZ    P 's
+ 200 RB   W P there
+ 000 .        ?
+
+ 002 PRP  W   it
+ 200 VBZ    P 's
+ 201 DT   W   the
+ 002 NN   W   farmer
+ 200 VBG  W P trying
+ 510 TO   W   to
+ 200 VB   W P scare
+ 200 DT   W P that
+ 002 NN   W   fox
+ 200 RB   W P away
+ 000 .        .
+
+ 200 VB   W P bye
+ 002 NN   W   fox
+ 000 .        .
+
+ 200 WP   W P who
+ 200 VBZ    P 's
+ 200 DT   W P that
+ 000 .        ?
+
+ 054 PRP  W   that
+ 200 VBZ    P 's
+ 201 DT   W   the
+ 002 NN   W   farmer
+ 000 .        .
+
+ 002 UH   W   yeah
+ 000 .        .
+
+ 054 PRP  W   that
+ 200 VBZ    P 's
+ 201 DT   W   the
+ 002 NN   W   man
+ 000 .        .
+
+ 002 UH   W   yeah
+ 000 .        .
+
+ 200 VB   W P wanna
+ 002 NN   W   put
+ 054 PRP  W   this
+ 200 RB   W P back
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   box
+ 000 .        ?
+
+ 002 PRP  W   you
+ 200 DT   W P all
+ 200 VBN  W P done
+ 200 IN   W P with
+ 200 DT   W P this
+ 210 CD   W   one
+ 000 .        ?
+
+ 200 VB   W P wanna
+ 002 NN   W   try
+ 002 NN   W   number
+ 210 CD   W   two
+ 000 .        ?
+
+ 002 UH   W   hey
+ 000 .        .
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 DT   W P that
+ 000 .        ?
+
+ 002 UH   W   oh
+ 002 NN   W   baby
+ 000 .        !
+
+ 002          is/moved
+ 200 RB   W P there
+ 002 NN   W   something
+ 200 IN   W P in
+ 200 RB   W P there
+ 200 VBZ  W P is
+ 000 .        ?
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 200 RB   W P there
+ 000 .        ?
+
+ 200 VB   W P let
+ 002 PRP  W   me
+ 200 VB   W P see
+ 000 .        .
+
+ 002 UH   W   hey
+ 201 DT   W   the
+ 002 NN   W   toast
+ 302 VBZ  W   is
+ 200 IN   W P up
+ 000 .        .
+
+ 002 NN   W   pop
+ 002 PRP  W   it
+ 000 .        .
+
+ 002 NN   W   pop
+ 201 DT   W   the
+ 002 NN   W   toast
+ 000 .        .
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 200 RB   W P there
+ 000 .        ?
+
+ 200 VB   W P let
+ 200 POS    P 's
+ 002 NN   W   see
+ 000 .        .
+
+ 200 DT   W P this
+ 210 CD   W P one
+ 200 POS    P 's
+ 002 NN   W   cheese
+ 000 .        .
+
+ 200 CC   W P and
+ 200 DT   W P this
+ 210 CD   W P one
+ 200 VBZ  W P is
+ 201 DT   W   a
+ 002 NN   W   cupcake
+ 000 .        .
+
+ 200 RB   W P so
+ 002 PRP  W   you
+ 002 MD   W   can
+ 200 VB   W P put
+ 002 PRP  W   them
+ 200 IN   W P on
+ 201 DT   W   the
+ 002 NN   W   stove
+ 000 .        .
+
+ 002 NN   W   cook
+ 002 PRP  W   them
+ 000 .        .
+
+ 200 VB   W P wanna
+ 002 NN   W   cook
+ 002 PRP  W   them
+ 000 .        .
+
+ 200 JJR  W P better
+ 200 VB   W P turn
+ 201 DT   W   the
+ 002 NNS  W   knobs
+ 002 UH   W   huh
+ 000 .        ?
+
+ 002          are/moved
+ 002 PRP  W   they
+ 002 NN   W   cooking
+ 200 VBP  W P are
+ 000 .        ?
+
+ 200 VB   W P let
+ 200 POS    P 's
+ 002 NN   W   see
+ 000 .        .
+
+ 002 UH   W   oh
+ 002 NN   W   they're
+ 002 NN   W   cooking
+ 200 RB   W P now
+ 000 .        .
+
+ 002          do/moved
+ 002 PRP  W   you
+ 402 VBP  W   do
+ 200 VBP  W P put
+ 002 PRP  W   them
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   oven
+ 000 .        ?
+
+ 002          do/moved
+ 002 PRP  W   you
+ 402 VBP  W   do
+ 200 VBP  W P put
+ 201 DT   W   the
+ 002 NN   W   pan
+ 200 RB   W P down
+ 200 IN   W P on
+ 201 DT   W   the
+ 002 NN   W   oven
+ 000 .        ?
+
+ 200 VB   W P put
+ 002 PRP  W   them
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   oven
+ 000 .        .
+
+ 002 UH   W   oh
+ 002 PRP  W   you
+ 200 VBD  W P knocked
+ 002 PRP  W   them
+ 200 IN   W P on
+ 201 DT   W   the
+ 002 NN   W   floor
+ 000 .        .
+
+ 200 RB   W P now
+ 200 VB   W P they're
+ 200 VBG  W P gonna
+ 200 VB   W P be
+ 200 DT   W P all
+ 200 JJ   W P dirty
+ 002 UH   W   huh
+ 000 .        ?
+
+ 002 UH   W   huh
+ 000 ,        ,
+ 200 RB   W P now
+ 002 PRP  W   you
+ 200 VBP  W P gotta
+ 002 NN   W   wash
+ 002 PRP  W   them
+ 200 IN   W P off
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   sink
+ 000 .        .
+
+ 002 NN   W   right
+ 000 .        ?
+
+ 002 EX   W   there
+ 002 PRP  W   they
+ 200 VBP  W P go
+ 200 RB   W P down
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   dishwasher
+ 000 .        .
+
+ 002 NN   W   they're
+ 200 VBG  W P washing
+ 000 .        .
+
+ 200 IN   W P up
+ 000 .        !
+
+ 002 EX   W   there
+ 002 PRP  W   they
+ 200 VBP  W P are
+ 000 .        .
+
+ 200 VB   W P get
+ 002 PRP  W   them
+ 000 .        .
+
+ 200 RB   W P here
+ 200 VBZ    P 's
+ 201 DT   W   a
+ 200 JJ   W P nice
+ 002 NN   W   spoon
+ 510 TO   W   to
+ 200 VB   W P cook
+ 200 IN   W P with
+ 000 .        .
+
+ 002 PRP  W   you
+ 002 MD   W   can
+ 200 VB   W P stir
+ 000 .        .
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 200 RB   W P here
+ 000 .        ?
+
+ 002 EX   W   there
+ 002 PRP  W   they
+ 200 VBP  W P go
+ 000 .        .
+
+ 002          are/moved
+ 002 PRP  W   they
+ 402 VBP  W   are
+ 200 VBG  W P getting
+ 200 VBN  W P washed
+ 000 .        ?
+
+ 054 PRP  W   that
+ 200 VBZ    P 's
+ 201 DT   W   the
+ 002 NN   W   part
+ 002 PRP  W   you
+ 200 IN   W P like
+ 002 UH   W   huh
+ 000 .        ?
+
+ 002 PRP  W   you
+ 200 IN   W P like
+ 200 VBG  W P washing
+ 002 PRP  W   them
+ 000 .        .
+
+ 002 UH   W   hey
+ 000 .        .
+
+ 054 PRP  W   that
+ 200 VBZ    P 's
+ 200 JJ   W P good
+ 000 .        .
+
+ 200 VB   W P look
+ 200 IN   W P if
+ 002 PRP  W   you
+ 200 VBP  W P do
+ 200 DT   W P this
+ 000 SYM      +
+ 000 .        .
+
+ 000 .        .
+
+ 000 .        .
+
+ 200 VB   W P take
+ 002 PRP  W   them
+ 200 IN   W P out
+ 000 .        .
+
+ 200 VB   W P put
+ 201 DT   W   the
+ 002 NN   W   pan
+ 200 IN   W P under
+ 200 RB   W P here
+ 000 .        .
+
+ 002 UH   W   oh
+ 200 DT   W P that
+ 002 NN   W   pan
+ 000 :        :
+ 002 UH   W   oh
+ 200 DT   W P that
+ 002 NN   W   pan
+ 050 NOT  W P won't
+ 200 VBN  W P fit
+ 200 IN   W P in
+ 200 RB   W P there
+ 000 .        .
+
+ 200 VBN  W P shut
+ 201 DT   W   the
+ 002 NN   W   door
+ 000 .        .
+
+ 002 NN   W   boing
+ 200 IN   W P o
+ 000 .        .
+
+ 002 EX   W   there
+ 002 PRP  W   they
+ 200 VBP  W P go
+ 000 .        .
+
+ 002 NNP  W   i'm
+ 200 VBG  W P gonna
+ 200 VB   W P stir
+ 201 DT   W   the
+ 002 NN   W   food
+ 000 .        .
+
+ 200 IN   W P while
+ 002 NN   W   you're
+ 200 VBG  W P doing
+ 201 DT   W   the
+ 002 NNS  W   dishes
+ 002 NNP  W   i'm
+ 200 VBG  W P gonna
+ 200 VB   W P stir
+ 201 DT   W   the
+ 002 NN   W   food
+ 000 .        .
+
+ 200 JJ   W P okay
+ 000 .        ?
+
+ 200 VBG  W P making
+ 200 DT   W P some
+ 002 NN   W   toast
+ 000 .        .
+
+ 002 PRP  W   you
+ 200 VBP  W P want
+ 200 DT   W P some
+ 002 NNS  W   eggs
+ 000 .        ?
+
+ 200 RB   W P here
+ 200 VBP  W P have
+ 201 DT   W   a
+ 002 NN   W   bite
+ 000 .        .
+
+ 002          is/moved
+ 200 DT   W P that
+ 200 JJ   W P good
+ 200 VBZ  W P is
+ 000 .        ?
+
+ 002          have/moved
+ 200 DT   W P another
+ 002 NN   W   bite
+ 200 VBP  W P have
+ 000 .        .
+
+ 200 VBP  W P want
+ 200 DT   W P some
+ 002 NN   W   toast
+ 000 .        ?
+
+ 200 RB   W P here
+ 002 PRP  W   you
+ 200 VBP  W P go
+ 000 .        .
+
+ 200 VB   W P take
+ 201 DT   W   a
+ 002 NN   W   bite
+ 000 .        .
+
+ 002          is/moved
+ 002 PRP  W   it
+ 200 JJ   W P good
+ 200 VBZ  W P is
+ 000 .        ?
+
+ 200 VB   W P stir
+ 002 PRP  W   it
+ 200 IN   W P up
+ 000 .        .
+
+ 002 UH   W   oh
+ 002 PRP  W   it
+ 200 VBZ    P 's
+ 200 VBG  W P stirring
+ 200 RB   W P now
+ 000 .        .
+
+ 200 VB   W P let
+ 002 PRP  W   me
+ 200 VB   W P taste
+ 000 .        .
+
+ 002 NN   W   mmm
+ 002 PRP  W   i
+ 200 IN   W P that
+ 301 NNS  W   tastes
+ 200 JJ   W P good
+ 000 .        .
+
+ 002 MD   W   can
+ 002 PRP  W   i
+ 200 VB   W P have
+ 201 DT   W   a
+ 002 NN   W   bite
+ 200 IN   W P of
+ 002 NN   W   cheese
+ 000 .        ?
+
+ 002 MD   W   can
+ 002 PRP  W   i
+ 200 VB   W P have
+ 201 DT   W   a
+ 002 NN   W   bite
+ 200 IN   W P of
+ 200 DT   W P that
+ 002 NN   W   cheese
+ 000 .        ?
+
+ 002 NN   W   cupcake
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 IN   W P like
+ 201 DT   W   the
+ 002 NN   W   cupcake
+ 000 .        .
+
+ 200 WDT  W P which
+ 210 CD   W   one
+ 002          do/moved
+ 002 PRP  W   you
+ 200 IN   W P like
+ 200 VBP  W P do
+ 000 .        ?
+
+ 002 NN   W   you're
+ 200 RB   W P just
+ 200 JJ   W P busy
+ 002 NN   W   washing
+ 000 .        .
+
+ 002 NN   W   boing
+ 200 IN   W P o
+ 000 .        .
+
+ 210 CD   W   one
+ 200 JJR  W P more
+ 200 VB   W P bite
+ 000 .        ?
+
+ 200 VBP  W P want
+ 200 DT   W P another
+ 002 NN   W   bite
+ 000 .        ?
+
+ 002 PRP  W   you
+ 200 JJ   W P hungry
+ 000 .        .
+
+ 002 NN   W   mhm
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P think
+ 002 NNP  W   i'm
+ 200 VBG  W P gonna
+ 200 VB   W P put
+ 200 DT   W P this
+ 002 NN   W   in
+ 201 DT   W   the
+ 002 NN   W   oven
+ 000 .        .
+
+ 002 UH   W   hey
+ 002 PRP  W   you
+ 200 VBP  W P wanna
+ 200 VB   W P see
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 200 DT   W P this
+ 002 NN   W   box
+ 200 IN   W P up
+ 200 RB   W P here
+ 000 .        ?
+
+ 002 UH   W   hey
+ 002 NNP  W   jane
+ 000 .        .
+
+ 002 UH   W   hey
+ 002 NNP  W   jane
+ 000 .        .
+
+ 002 UH   W   hey
+ 002 NNP  W   jane
+ 000 .        .
+
+ 002 PRP  W   you
+ 200 VBP  W P wanna
+ 200 VB   W P see
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 200 DT   W P this
+ 210 CD   W   one
+ 000 .        ?
+
+ 201 DT   W   the
+ 200 JJ   W P green
+ 002 NN   W   box
+ 000 .        ?
+
+ 200 VB   W P look
+ 200 IN   W P at
+ 200 DT   W P that
+ 200 JJ   W P green
+ 002 NN   W   box
+ 200 IN   W P up
+ 200 RB   W P there
+ 000 .        .
+
+ 200 VB   W P let
+ 200 VBZ    P 's
+ 200 VBN  W P put
+ 201 DT   W   the
+ 002 NN   W   sink
+ 200 IN   W P in
+ 200 RB   W P here
+ 000 .        .
+
+ 002 MD   W   can
+ 002 PRP  W   you
+ 200 VB   W P put
+ 201 DT   W   the
+ 002 NN   W   sink
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   box
+ 000 .        ?
+
+ 200 VB   W P put
+ 201 DT   W   the
+ 002 NN   W   sink
+ 200 IN   W P in
+ 201 DT   W   the
+ 200 JJ   W P big
+ 002 NN   W   box
+ 000 .        .
+
+ 002 UH   W   oh
+ 200 VB   W P let
+ 200 VBZ    P 's
+ 200 VBN  W P put
+ 200 DT   W P this
+ 002 NN   W   up
+ 200 RB   W P here
+ 000 .        .
+
+ 200 CC   W P and
+ 200 VB   W P see
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 201 DT   W   the
+ 200 JJ   W P green
+ 002 NN   W   box
+ 000 .        .
+
+ 200 VB   W P look
+ 000 .        .
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 DT   W P this
+ 000 .        ?
+
+ 002 UH   W   hey
+ 000 .        .
+
+ 002 UH   W   oh
+ 200 WP   W P what
+ 200 VBZ  W P is
+ 200 DT   W P that
+ 000 .        ?
+
+ 200 VB   W P let
+ 200 POS    P 's
+ 002 NN   W   see
+ 000 .        .
+
+ 200 VB   W P let
+ 200 POS    P 's
+ 002 NN   W   see
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P over
+ 200 RB   W P here
+ 000 .        .
+
+ 200 VB   W P look
+ 000 .        .
+
+ 002 PRP  W   it
+ 200 VBZ    P 's
+ 201 DT   W   a
+ 200 JJ   W P little
+ 002 NN   W   tractor
+ 000 .        .
+
+ 002 PRP  W   it
+ 200 VBZ    P 's
+ 201 DT   W   a
+ 200 JJ   W P little
+ 002 NN   W   tractor
+ 000 .        .
+
+ 002 PRP  W   she
+ 200 VBZ    P 's
+ 200 VBG  W P sleeping
+ 000 .        .
+
+ 002 PRP  W   she
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 200 PRP$ W P her
+ 002 NN   W   bedroom
+ 000 .        .
+
+ 002 EX   W   there
+ 200 VBZ    P 's
+ 200 PRP$ W P her
+ 200 JJ   W P little
+ 002 NN   W   mirror
+ 000 .        .
+
+ 002 UH   W   aw
+ 000 .        .
+
+ 200 VB   W P see
+ 000 .        .
+
+ 200 JJ   W P open
+ 002 PRP  W   it
+ 200 IN   W P up
+ 000 .        .
+
+ 054 PRP  W   that
+ 200 VBZ    P 's
+ 200 DT   W P all
+ 201 DT   W   the
+ 200 RB   W P far
+ 002 PRP  W   it
+ 200 VBZ  W P goes
+ 000 .        .
+
+ 050 NOT  W P don't
+ 002 NN   W   break
+ 002 PRP  W   it
+ 000 .        .
+
+ 200 VB   W P look
+ 000 .        .
+
+ 200 JJ   W P little
+ 002 NN   W   girl
+ 000 .        .
+
+ 002 NN   W   right
+ 200 RB   W P here
+ 000 .        .
+
+ 200 VBN  W P shut
+ 201 DT   W   the
+ 002 NN   W   door
+ 000 .        .
+
+ 200 VB   W P ring
+ 201 DT   W   the
+ 002 NN   W   bell
+ 000 .        .
+
+ 002 NN   W   press
+ 002 PRP  W   it
+ 200 JJ   W P hard
+ 000 .        .
+
+ 200 VB   W P let
+ 200 POS    P 's
+ 002 NN   W   see
+ 000 .        .
+
+ 002 NN   W   boing
+ 200 IN   W P o
+ 000 .        .
+
+ 002 EX   W   there
+ 002 PRP  W   you
+ 200 VBP  W P go
+ 000 .        .
+
+ 200 VB   W P get
+ 201 DT   W   the
+ 002 NN   W   tractor
+ 000 .        .
+
+ 200 CC   W P and
+ 200 VB   W P put
+ 200 DT   W P this
+ 200 JJ   W P little
+ 002 NN   W   guy
+ 200 IN   W P in
+ 200 RB   W P there
+ 000 .        .
+
+ 200 VB   W P let
+ 002 PRP  W   him
+ 200 VB   W P have
+ 201 DT   W   a
+ 002 NN   W   ride
+ 000 .        .
+
+ 002          do/moved
+ 002 PRP  W   you
+ 402 VBP  W   do
+ 200 VBP  W P wanna
+ 200 VB   W P take
+ 201 DT   W   a
+ 002 NN   W   ride
+ 200 IN   W P on
+ 201 DT   W   the
+ 002 NN   W   tractor
+ 000 .        ?
+
+ 200 WRB  W P where
+ 000 MD       'd
+ 002 PRP  W   he
+ 200 VB   W P go
+ 000 .        ?
+
+ 002 PRP  W   he
+ 200 VBZ    P 's
+ 200 IN   W P over
+ 200 RB   W P here
+ 000 .        .
+
+ 200 VB   W P turn
+ 002 PRP  W   him
+ 200 IN   W P around
+ 000 .        .
+
+ 002 UH   W   hey
+ 000 .        .
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 IN   W P in
+ 200 RB   W P there
+ 000 .        ?
+
+ 200 WRB  W P where
+ 002          did/moved
+ 002 PRP  W   he
+ 402 VBD  W   did
+ 200 VBP  W P go
+ 000 .        ?
+
+ 200 VB   W P turn
+ 002 PRP  W   him
+ 200 IN   W P around
+ 000 .        .
+
+ 002 EX   W   there
+ 002 PRP  W   he
+ 200 VBZ  W P is
+ 000 .        .
+
+ 200 VB   W P put
+ 002 PRP  W   him
+ 002 RP   W   down
+ 201 DT   W   the
+ 002 NN   W   shoot
+ 200 RB   W P again
+ 000 .        .
+
+ 200 VB   W P put
+ 002 PRP  W   him
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   shoot
+ 000 .        .
+
+ 002 NN   W   right
+ 200 RB   W P here
+ 000 .        .
+
+ 200 VB   W P put
+ 002 PRP  W   him
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   shoot
+ 000 .        .
+
+ 002 UH   W   oh
+ 002 PRP  W   he
+ 200 VBZ    P 's
+ 200 VBN  W P stuck
+ 000 .        .
+
+ 200 VB   W P put
+ 201 DT   W   the
+ 000 :        :
+ 000 .        ?
+
+ 200 VB   W P put
+ 201 DT   W   the
+ 002 NN   W   girl
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   shoot
+ 000 .        .
+
+ 002 UH   W   hey
+ 000 .        .
+
+ 301 VB   W   look
+ 200 RB   W P here
+ 000 .        .
+
+ 002 NN   W   butterfly
+ 000 .        .
+
+ 002 MD   W   can
+ 002 PRP  W   i
+ 200 VB   W P do
+ 210 CD   W   one
+ 000 .        ?
+
+ 002          are/moved
+ 002 PRP  W   you
+ 402 VBP  W   are
+ 200 VBG  W P gonna
+ 200 VB   W P let
+ 002 NN   W   mommy
+ 200 VB   W P do
+ 210 CD   W   one
+ 000 .        ?
+
+ 002 PRP  W   you
+ 200 VBG  W P gonna
+ 200 VB   W P let
+ 002 NN   W   mommy
+ 002 NN   W   put
+ 201 DT   W   a
+ 200 JJ   W P little
+ 002 NN   W   kid
+ 002 RP   W   down
+ 201 DT   W   the
+ 002 NN   W   shoot
+ 000 .        ?
+
+ 200 VB   W P thank
+ 002 PRP  W   you
+ 000 .        .
+
+ 002 NN   W   boing
+ 200 IN   W P o
+ 000 .        .
+
+ 200 VB   W P thank
+ 002 PRP  W   you
+ 000 .        .
+
+ 200 RB   W P now
+ 002 PRP  W   you
+ 200 VBP  W P do
+ 210 CD   W   one
+ 000 .        .
+
+ 200 VBP  W P tuck
+ 002 PRP  W   him
+ 200 IN   W P in
+ 000 .        .
+
+ 200 JJ   W P good
+ 002 NN   W   night
+ 000 .        .
+
+ 200 WRB  W P where
+ 200 POS    P 's
+ 200 PRP$ W P their
+ 002 NN   W   bed
+ 000 .        ?
+
+ 002          do/moved
+ 002 PRP  W   they
+ 402 VBP  W   do
+ 200 VBP  W P have
+ 201 DT   W   a
+ 002 NN   W   bed
+ 000 .        ?
+
+ 002          is/moved
+ 002 EX   W   there
+ 201 DT   W   a
+ 200 JJ   W P little
+ 002 NN   W   bed
+ 200 IN   W P for
+ 200 DT   W P these
+ 002 NNS  W   kids
+ 200 VBZ  W P is
+ 000 .        ?
+
+ 002 NN   W   hmm
+ 000 .        ?
+
+ 002 PRP  W   it
+ 200 VBZ  W P keeps
+ 200 VBG  W P coming
+ 200 JJ   W P open
+ 000 .        .
+
+ 200 WRB  W P where
+ 200 POS    P 's
+ 200 PRP$ W P their
+ 002 NN   W   bed
+ 000 .        ?
+
+ 002 NN   W   hmm
+ 000 .        ?
+
+ 200 RB   W P here
+ 200 VBZ  W P comes
+ 201 DT   W   the
+ 200 JJ   W P little
+ 002 NN   W   girl
+ 000 .        .
+
+ 002 UH   W   oh
+ 002 NNP  W   i'm
+ 200 JJ   W P sleepy
+ 002 NN   W   mommy
+ 000 .        .
+
+ 002 PRP  W   i
+ 200 VBP  W P wanna
+ 200 VB   W P go
+ 510 TO   W   to
+ 200 VB   W P bed
+ 000 .        .
+
+ 002 MD   W   can
+ 002 PRP  W   i
+ 200 VB   W P go
+ 002 NN   W   upstairs
+ 000 .        ?
+
+ 200 VB   W P put
+ 200 PRP$ W P her
+ 200 TO   W P to
+ 002 NN   W   bed
+ 000 .        .
+
+ 200 VBP  W P tuck
+ 002 PRP  W   her
+ 200 IN   W P in
+ 000 .        .
+
+ 200 VB   W P tell
+ 200 PRP$ W P her
+ 200 JJ   W P good
+ 002 NN   W   night
+ 000 .        .
+
+ 200 WRB  W P where
+ 200 VBZ    P 's
+ 201 DT   W   the
+ 200 JJ   W P other
+ 002 NN   W   guy
+ 200 IN   W P at
+ 000 .        ?
+
+ 200 WRB  W P where
+ 200 VBZ    P 's
+ 201 DT   W   the
+ 002 NN   W   daddy
+ 000 .        ?
+
+ 200 VB   W P let
+ 002 PRP  W   him
+ 200 VB   W P tuck
+ 201 DT   W   the
+ 002 NN   W   baby
+ 200 IN   W P in
+ 000 .        .
+
+ 200 VB   W P give
+ 200 PRP$ W P her
+ 002 NNS  W   kisses
+ 200 CC   W P and
+ 002 NN   W   everything
+ 000 .        .
+
+ 200 VB   W P tell
+ 200 PRP$ W P her
+ 200 JJ   W P good
+ 002 NN   W   night
+ 000 .        .
+
+ 200 VB   W P sleep
+ 200 JJ   W P nice
+ 000 .        .
+
+ 002          is/moved
+ 002 PRP  W   she
+ 402 VBZ  W   is
+ 200 VBG  W P sleeping
+ 000 .        ?
+
+ 002          is/moved
+ 002 PRP  W   she
+ 402 VBZ  W   is
+ 200 VBG  W P sleeping
+ 000 .        ?
+
+ 200 VB   W P tell
+ 200 PRP$ W P her
+ 002 NN   W   time
+ 510 TO   W   to
+ 200 VB   W P wake
+ 200 IN   W P up
+ 000 .        .
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 002 PRP  W   he
+ 200 VBG  W P doing
+ 000 .        ?
+
+ 002 PRP  W   he
+ 200 VBZ    P 's
+ 200 VBG  W P going
+ 002 NN   W   night_night
+ 000 .        .
+
+ 002          is/moved
+ 002 PRP  W   he
+ 402 VBZ  W   is
+ 200 VBD  W P tired
+ 000 .        ?
+
+ 200 JJ   W P good
+ 002 NN   W   night
+ 000 .        .
+
+ 002 NN   W   night
+ 000 .        .
+
+ 200 VB   W P see
+ 002 PRP  W   you
+ 000 .        .
+
+ 200 RB   W P maybe
+ 002 PRP  W   he
+ 002 MD   W   should
+ 200 VB   W P wake
+ 200 IN   W P up
+ 200 CC   W P and
+ 002 NN   W   go
+ 002 NN   W   ride
+ 201 DT   W   the
+ 002 NN   W   tractor
+ 000 .        .
+
+ 002 UH   W   yeah
+ 000 .        .
+
+ 002 PRP  W   you
+ 200 VBP  W P go
+ 510 TO   W   to
+ 200 VB   W P sleep
+ 000 .        .
+
+ 002 PRP  W   he
+ 200 VBZ    P 's
+ 200 VBG  W P gonna
+ 200 VB   W P ride
+ 000 .        .
+
+ 200 WP   W P what
+ 200 RB   W P kinda
+ 200 VB   W P sound
+ 002          is/moved
+ 002 PRP  W   he
+ 402 VBZ  W   is
+ 200 VBG  W P gonna
+ 200 VB   W P make
+ 000 .        ?
+
+ 002 NN   W   hmm
+ 000 .        ?
+
+ 002 PRP  W   i
+ 200 VBP  W P know
+ 000 .        .
+
+ 002 NN   W   drive
+ 002 PRP  W   him
+ 200 IN   W P in
+ 201 DT   W   the
+ 000 :        :
+ 000 :        :
+ 200 IN   W P in
+ 201 DT   W   the
+ 002 NN   W   garage
+ 000 .        .
+
+ 200 VBN  W P shut
+ 201 DT   W   the
+ 002 NN   W   door
+ 000 .        .
+
+ 002 UH   W   huh
+ 000 .        ?
+
+ 200 VB   W P bye
+ 000 .        .
+
+ 002          is/moved
+ 002 PRP  W   he
+ 402 VBZ  W   is
+ 200 VBP  W P all_done
+ 000 .        ?
+
+ 002          is/moved
+ 002 PRP  W   he
+ 200 JJ   W P busy
+ 200 VBZ  W P is
+ 000 .        ?
+
+ 002          is/moved
+ 002 PRP  W   he
+ 200 VBZ  W P is
+ 000 .        ?
+
+ 002 UH   W   yeah
+ 000 .        .
+
+ 002 UH   W   yeah
+ 000 .        .
+
+ 200 DT   W P this
+ 210 CD   W P one
+ 200 VBZ  W P has
+ 201 DT   W   a
+ 002 NN   W   kitty
+ 000 .        .
+
+ 002 NN   W   mhm
+ 000 .        .
+
+ 054 PRP  W   that
+ 200 VBZ    P 's
+ 002 PRP  W   it
+ 000 .        .
+
+ 002 NN   W   wake
+ 200 IN   W P up
+ 002 NN   W   girl
+ 000 .        .
+
+ 200 WP   W P what
+ 200 VBZ    P 's
+ 200 PRP$ W P her
+ 002 NN   W   name
+ 000 .        ?
+
+ 002 NN   W   girl
+ 000 .        ?
+
+ 002 UH   W   oh
+ 002 PRP  W   it
+ 200 VBZ    P 's
+ 200 PRP$ W P her
+ 002 NN   W   turn
+ 000 .        .
+
+ 200 VB   W P take
+ 201 DT   W   a
+ 002 NN   W   turn
+ 000 .        .
+
+ 200 VB   W P make
+ 200 PRP$ W P her
+ 002 NN   W   go
+ 002 NN   W   ride
+ 200 IN   W P around
+ 000 .        .
+
+ 002 PRP  W   i
+ 002 MD   W   will
+ 200 VB   W P bring
+ 002 PRP  W   her
+ 200 IN   W P over
+ 000 .        .
+
+ 200 VB   W P make
+ 200 PRP$ W P her
+ 002 NN   W   go
+ 200 IN   W P around
+ 000 .        .
+
+ 200 VB   W P give
+ 200 PRP$ W P her
+ 200 DT   W P another
+ 002 NN   W   ride
+ 000 .        .
+
+ 002 NN   W   uhoh
+ 000 .        .
+
+ 002 PRP  W   she
+ 200 VBD  W P fell
+ 200 IN   W P over
+ 200 CC   W P and
+ 200 VBD  W P banged
+ 200 PRP$ W P her
+ 002 NN   W   head
+ 000 .        .
+
+ 002 PRP  W   she
+ 200 VBD  W P did
+ 002 NN   W   bang
+ 200 PRP$ W P her
+ 002 NN   W   head
+ 000 .        .
+
+ 200 VB   W P come
+ 200 IN   W P over
+ 200 RB   W P here
+ 000 .        .
+
+ 200 VB   W P come
+ 200 IN   W P over
+ 200 RB   W P here
+ 000 .        .
+
+ 200 RB   W P here
+ 200 VB   W P sit
+ 200 IN   W P by
+ 002 PRP  W   me
+ 000 .        .
+
+ 200 RB   W P here
+ 002 PRP  W   i
+ 002 MD   W   will
+ 200 VB   W P zoom
+ 002 PRP  W   him
+ 200 IN   W P over
+ 000 .        .
+
+ 200 JJ   W P okay
+ 000 .        ?
+
+
+   641 propositions
+  1101 words
+ 0.582 density
+
